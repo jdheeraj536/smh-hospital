@@ -30,4 +30,4 @@ jobs:
           protocol: ftp
           port: 21
           local-dir: ./dist/
-          server-dir: /domains/dbtechx.com/public_html/
+          server-dir: /domains/smhhospital.com/public_html/
